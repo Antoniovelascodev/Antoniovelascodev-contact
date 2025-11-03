@@ -1,3 +1,4 @@
+<img width="500" height="250" alt="Antonio Velasco" src="https://github.com/user-attachments/assets/7be04f97-3800-4287-b884-8ad93383c0cb" />
 
 # Hi, my name is Antonio!
 
