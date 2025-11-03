@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Teal and Black Modern Programmer New LinkedIn Banner" src="https://github.com/user-attachments/assets/69b345fe-3f83-40d3-8f7d-ef01f30d1f8d" />
+<img width="1584" height="396" src="https://github.com/user-attachments/assets/69b345fe-3f83-40d3-8f7d-ef01f30d1f8d" />
 
 # Hi, my name is Antonio!
 
